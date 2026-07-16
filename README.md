@@ -47,7 +47,7 @@ I enjoy understanding how systems work under the hood, from operating systems an
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=go,python,c,bash"/>
+<img src="https://skillicons.dev/icons?i=go,python,java,c,bash"/>
 
 </p>
 
@@ -91,8 +91,8 @@ I enjoy understanding how systems work under the hood, from operating systems an
 | Project                             | Description                                                            |
 | ----------------------------------- | ---------------------------------------------------------------------- |
 | 🖥️ Linux Kernel Modules            | Linux kernel development and experimentation on Single Board Computers |
+| 🌐 Distributed Systems Algorithms  | Implementation of distributed algorithms and synchronization mechanisms in Java |
 | ☁️ Cloud Infrastructure             | Infrastructure, orchestration, and observability projects              |
-| 🌐 Computer Networks                | Networking and distributed systems projects                            |
 | 🧪 MSc Dissertation *(Coming Soon)* | A resilience evaluation framework for distributed edge systems         |
 
 ---
@@ -110,7 +110,6 @@ I enjoy understanding how systems work under the hood, from operating systems an
 # 🌄 Beyond the Keyboard
 
 * 🎮 Video games
-* 🏊 Swimming
 * 🪨 Geology
 * 🔧 Experimenting with Single Board Computers
 * ✍️ Creative writing
