@@ -25,7 +25,7 @@
 
 I'm an MSc Network and Information Systems Engineering student passionate about designing reliable distributed systems, resilient infrastructures, and cloud-native architectures.
 
-My current research focuses on **resilience evaluation of distributed edge systems** through fault injection (Chaos Engineering). I enjoy understanding how systems work under the hood—from Linux kernel modules and computer networks to Kubernetes and observability stacks. I believe the best way to learn is to build it, break it, observe it, and understand why it recovers.
+My current research focuses on **resilience evaluation of distributed edge systems** through fault injection (Chaos Engineering). I enjoy understanding how systems work under the hood: from Linux kernel modules and computer networks to Kubernetes and observability stacks. I believe the best way to learn is to build it, break it, observe it, and understand why it recovers.
 
 ---
 
