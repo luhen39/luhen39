@@ -63,18 +63,20 @@ My current research focuses on **resilience evaluation of distributed edge syste
 * Linux & Operating Systems
 
 ---
-
 # 📌 Featured Projects
 
 | Project | Description |
 | :--- | :--- |
-| **🧪 DARAINA** *(Ongoing)* | A lightweight Chaos Engineering framework to evaluate resilience and recovery in distributed edge systems. |
-| **☁️ Cloud File Storage System** | Cloud-native microservices on GKE (Terraform, FastAPI, MinIO). Includes full observability stack (Prometheus, Grafana, Loki) and k6 load testing. |
-| **🖥️ MilkV RISC-V (Capstone)** | Adapted and cross-compiled a Linux kernel module for a RISC-V embedded system. Tested POSIX system calls and socket communication in C. |
-| **🌐 Distributed Systems Algorithms** | Implementations of Token Ring, Totally-Ordered Multicast (TOM), and Anti-Entropy (Gossip) protocols in Java, with automated convergence testing. |
+| **🧪 DARAINA** *(Ongoing)* | A lightweight Chaos Engineering framework to evaluate resilience and recovery in distributed edge systems (Fault Injection, Docker). |
+| **☁️ [Cloud File Storage System](https://github.com/luhen39/adm_cloud_project)** | Cloud-native microservices on GKE. Provisioned via Terraform (IaC) with full observability (Prometheus, Grafana, Loki) and k6 load testing. |
+| **📊 [Big Data: ICU Length of Stay](https://github.com/luhen39/BDCC_2425_Assignment_2)** | Scalable ML pipeline processing 330M clinical records. Built with Python and Dask for memory-efficient, parallel data processing. |
+| **🌐 [Distributed Systems Algorithms](https://github.com/luhen39/ds_assignment_25_26)** | Implementations of Token Ring, Totally-Ordered Multicast, and Anti-Entropy (Gossip) protocols in Java, with automated convergence testing. |
+| **🛠️ [Cloud Infrastructure & SysAdmin](https://github.com/luhen39/adm_sistemas_FCUP_2425)** | Multi-VM infrastructure on GCP featuring OpenLDAP authentication, SMB storage, RAID 1 redundancy, and Bash automation scripts. |
+| **🏥 [Hospital Management System](https://github.com/luhen39/BDCC_2425_Assignment_1)** | Serverless backend on Google Cloud Platform (AppEngine, BigQuery, Cloud Functions) with multi-region load testing. |
+| **🖥️ [MilkV RISC-V (Linux Kernel)](https://github.com/luhen39/Capstone_Project_FEUP_24_25)** | Adapted and cross-compiled a Linux kernel module for a RISC-V embedded system. Tested POSIX system calls and sockets in C. |
 | **🏗️ Reliolum** *(Planning)* | A personal SRE lab designed to implement SLIs/SLOs, error-budget burn-rate alerting, and repeatable failure experiments. |
 
-*(Note: Repositories for ongoing projects will be made public as they reach stable milestones.)*
+*(Note: DARAINA and Reliolum are currently in private repositories. Code walkthroughs and access can be provided upon request.)*
 
 ---
 
